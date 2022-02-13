@@ -4,7 +4,7 @@
 Comment App
 
 So, this full stack app has Signup,Signin, Forgot Password and a Homepage.
-In Homepage user is allowed to write comments which he/she wants to share only after he/she is a registered user and is logged in.
+In Homepage user is allowed to write comments which he/she wants to share only if he/she is a registered user and is logged in.
 
 
 
