@@ -1,0 +1,3 @@
+CREATE DATABASE users;
+CREATE TABLE userdata (id int(11) AUTO_INCREMENT,email varchar(255),password varchar(255),secret varchar(255),is_logged_in int(1),PRIMARY KEY (id));
+CREATE TABLE comments_data (id int(11) AUTO_INCREMENT,email varchar(255),comment text,user_id int(11),is_logged_in int(1),timestamp datetime DEFAULT CURRENT_TIMESTAMP,PRIMARY KEY (id));
