@@ -23,4 +23,4 @@ I would also like to address a problem that whenever a user closes his/her brows
 I am also attaching the link of website below.
 
 
-http://comment-app.infinityfreeapp.com/
+https://www.comment-app.infinityfreeapp.com/
