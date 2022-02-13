@@ -12,8 +12,7 @@ To run this app please follow these steps :
 
 1. First open a text file named "database query" and copy the query present inside it and run it on phpmyadmin.
 2. The file named config.php is used to make connection to database.It contains DB username,password so change it according to need.
-3. signup.php file is the homepage.
-4. Upload php files on server to run the app.
+3. Upload php files on server or xampp to run the app.
 
 
 
