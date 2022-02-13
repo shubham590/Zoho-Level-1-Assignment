@@ -16,7 +16,7 @@ To run this app please follow these steps :
 
 
 
-I would also like to address a problem that whenever a user closes his/her browser without signing out from homepage,his/her logged in status does'nt gets updated in the database hence on clicking filter button, comments by those users will still be visible. So in order to avoid this problem he/she has to sign off before exiting the browser.
+I would also like to address a problem that whenever a user closes his/her browser without signing out from homepage,his/her logged in status does'nt gets updated in the database.Hence on clicking filter button, comments by those users will still be visible. So in order to avoid this problem he/she has to sign off before exiting the browser.
 
 
 I am also attaching the link of website below.
