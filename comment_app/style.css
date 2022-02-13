@@ -1,0 +1,86 @@
+.row {
+  display:flex;
+  justify-content: center;
+}
+div.div1{
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+div.div2{
+  text-align: right;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.buttonHolder {
+  margin-top: 30px;
+  text-align: center;
+}
+.container{
+  margin-top: 50px;
+}
+.form-group input {
+  margin-bottom: 20px;
+}
+.div1 a:link {
+  background-color: transparent;
+  text-decoration: none;
+}
+.div1 a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.div2 a:link {
+  background-color: transparent;
+  text-decoration: none;
+}
+.div2 a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+/* .parent button{
+  display: flex;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+*/
+.buttonHolder2{
+  float: right;
+}
+.submitbutton{
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.commentbox1 textarea {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width:100%;
+  line-height: 1.5;
+  border-radius: 5px;
+  border: 2px solid rgb(128,128,128);
+  box-shadow: 1px 1px 1px #999;
+  resize: none;
+}
+.parent{
+  margin:30px 70px 30px 100px;
+}
+.single-item2{
+  margin-bottom: 30px;
+}
+.textarea2{
+  background: #FFF;
+  box-shadow: 2px 5px 10px rgba(0,0,0,0.5);
+  padding: 10px 20px;
+  text-align: left;
+  margin-bottom: 25px;
+}
+.user_comments{
+  padding: 4px;
+}
+.filterbutton{
+  float :right;
+}
