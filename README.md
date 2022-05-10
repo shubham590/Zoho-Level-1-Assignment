@@ -1,6 +1,5 @@
 
-# Zoho-Level-1-Assignment
-
+# Full Stack App
 Comment App
 
 So, this full stack app has Signup,Signin, Forgot Password and a Homepage.
